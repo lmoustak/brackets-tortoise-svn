@@ -1,6 +1,6 @@
 {
 	"name": "lmoustak.brackets-tortoise-svn",
-	"version": "1.0.0.0",
+	"version": "1.0.0",
 	"title": "Brackets TortoiseSVN",
 	"description": "FOR WINDOWS ONLY. Adds TortoiseSVN commands (commit, checkout, update, revert, log) in File menu and directory tree context menus",
 	"homepage": "https://github.com/lmoustak/brackets-tortoise-svn",
