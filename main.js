@@ -21,15 +21,14 @@ define(function (require, exports, module) {
     });
     
     prefs.definePreference("closeOnEnd", "object", {
-        "commit": 3, 
-        "switch": 0, 
-        "update": 0, 
-        "revert": 0, 
-        "log": 0, 
-        "diff": 0, 
+        "commit": 3,
+        "switch": 0,
+        "update": 0,
+        "revert": 0,
+        "log": 0,
+        "diff": 0,
         "blame": 0
-    }, 
-    {
+    }, {
         description: "Defines when should the dialog box automatically close after the command executes: 0 - never; 1 - close if no errors; 2 - close if no errors and conflicts; 3 - close if no errors, conflicts and merges",
         keys: {
             "commit": {
