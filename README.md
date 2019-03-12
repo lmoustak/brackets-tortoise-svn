@@ -8,7 +8,7 @@ Adds TortoiseSVN commands like commit, switch, update, revert, log, diff, blame 
 TortoiseSVN must be installed. Supports Windows only.
 
 ## Using the extension
-Upon installing this extension, make the path to TortoiseProc.exe is **C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe**.
+Upon installing this extension, make sure the path to TortoiseProc.exe is **C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe**.
 If not, you'll have to set the path in `brackets-tortoise-svn.tortoiseProcPath`'s value in brackets.json, like so:
 ```
 "brackets-tortoise-svn.tortoiseProcPath": "C:/path/to/TortoiseProc.exe"
