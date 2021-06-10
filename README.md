@@ -1,4 +1,7 @@
+**Brackets reaches end-of-life. This extension is considered archived.**
+
 # Brackets TortoiseSVN
+
 (WINDOWS ONLY) A TortoiseSVN menu extension for Brackets.
 
 ## Features
